@@ -1,0 +1,6 @@
+{
+  "name": "National Housing Community",
+  "description": "National Housing Community NGO website dedicated to raising awareness about affordable housing, community development, housing assistance, and homelessness prevention. Includes resource finders, interactive 3D visualizations, and secure AI housing assistance chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
